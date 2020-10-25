@@ -1,3 +1,7 @@
+head{
+  background-color:red
+}
+
 body {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   
@@ -10,12 +14,13 @@ body {
 }
 
 h1 {
-  color: Rosybrown;
+  submit ;
 }
 
 .starter-template {
   padding: 1rem 1.5rem;
   text-align: center;
+  font-size:1.25rem;
 }
 
 .nav-p{
