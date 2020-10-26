@@ -1,13 +1,26 @@
+
+
 body {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  
+  margin: 2em;
   padding-top: 5rem;
   background-color: mistyrose;
   color: Rosybrown;
+  font-size:1.25rem
+  
 }
+
+h1 {
+  submit ;
+}
+
 .starter-template {
-  padding: 3rem 1.5rem;
+  padding: 1rem 1.5rem;
   text-align: center;
+  font-size:1.25rem;
 }
+
 .nav-p{
   display:inline-block;
   padding-top:.3125rem;
@@ -19,4 +32,3 @@ body {
   color:white;
   
 }
-
